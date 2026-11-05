@@ -10,7 +10,8 @@ will want:
 - per polyrepo config file
 
 
-- A way to list MANY git repos consicely + search and filter them 
+- A way to list MANY git repos consicely + search and filter them
+- Known fallback mirrors
 - A mega-list of Linux/BSD/UNIX source repositories
     - probably json encoded
     - available at a URL which can be updated/fetched on first run 
